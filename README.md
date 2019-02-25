@@ -1,0 +1,2 @@
+# FirstFactoria
+return number factorial
